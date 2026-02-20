@@ -3,7 +3,7 @@
 ## Hi there, I am Sareena B S 👋
 
 ## ABOUT ME
-Hi, I’m Sareena, a passionate and curious developer who loves building meaningful digital solutions. I enjoy learning new technologies, working on creative projects like Trustora, and continuously improving my skills through hands-on experience and teamwork ✨
+Hi, I’m Sareena, a passionate and curious developer who loves building meaningful digital solutions. I enjoy learning new technologies, working on creative projects, and continuously improving my skills✨
 
 ## BADGES
 <img src="https://github.com/user-attachments/assets/fee6171c-48ac-4515-a804-7c759e6aad5e" width="200"/>
