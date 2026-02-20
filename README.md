@@ -1,9 +1,33 @@
-<img src="https://github.com/user-attachments/assets/fdb95e41-5dc7-4032-91db-af1c018f6b75" width="100%"/>
+<img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/e327e306-e826-46db-944d-5f4ecfb7a14d" />
 
-## Hi there, I am Sareena B S 👋
+<h1 align="center">Hi, I'm Sareena B S👋</h1>
+<h3 align="center"> B.Tech Student | 💻 Web Developer | 🚀 Tech Enthusiast</h3>
 
-## ABOUT ME
-Hi, I’m Sareena, a passionate and curious developer who loves building meaningful digital solutions. I enjoy learning new technologies, working on creative projects, and continuously improving my skills✨
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Passionate+Developer;Hackathon+Participant;Frontend+Explorer;Always+Learning+New+Things" />
+</p>
 
-## BADGES
-<img src="https://github.com/user-attachments/assets/fee6171c-48ac-4515-a804-7c759e6aad5e" width="200"/>
+
+<br>
+
+## 🌷 ABOUT ME
+Hi, I’m Sareena — a passionate and curious developer who loves building meaningful digital solutions.  
+I enjoy exploring new technologies, working on creative ideas, and continuously improving my skills✨  
+
+
+<br>
+
+## 🛠 TECH STACK
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,git,vscode,firebase" />
+</p>
+<br>
+
+## 📊 GITHUB STATUS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sareenabs&show_icons=true&theme=rose_pine" />
+</p>
+
+---
+
+> 💖 “Building today, improving tomorrow.”
